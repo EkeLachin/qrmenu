@@ -1,4 +1,4 @@
-# qrmenu
+#  QR MENÜ
 QR kod ile Ücretsiz Online Menü Admin panelinden ürün ekleyip kaldırabilir, açıklamalarını düzenleyebilir, fiyatlarını düzenleyebilirsiniz.
 ​
 KURULUM​
