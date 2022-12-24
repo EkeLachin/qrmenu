@@ -18,3 +18,5 @@ Not : Scripti kullanmaya başladıktan sonra güvenliğiniz için yönetim panel
 İbrahim Taylan İzci (Script'in asıl kurucusu) WhatsApp İleitişim: +90 546 564 19 98 👉 https://wa.me/+905465641998
 #
 Laçin Eke YouTube https://youtube.com/LacinEke
+#
+https://raw.githubusercontent.com/EkeLachin/qrmenuyorum/main/resim_2022-12-24_234655311.png
