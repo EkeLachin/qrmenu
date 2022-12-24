@@ -1,4 +1,4 @@
-#  QR MENÜ
+#  QR MENÜ 👉İNDİR👉 https://github.com/EkeLachin/qrmenu/archive/refs/heads/main.zip
 QR kod ile Ücretsiz Online Menü Admin panelinden ürün ekleyip kaldırabilir, açıklamalarını düzenleyebilir, fiyatlarını düzenleyebilirsiniz.
 
 # KURULUM
