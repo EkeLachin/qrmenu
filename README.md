@@ -1,6 +1,6 @@
 #  QR MENÜ 👇İNDİR👇 https://github.com/EkeLachin/qrmenu/archive/refs/heads/main.zip
 QR kod ile Ücretsiz Online Menü Admin panelinden ürün ekleyip kaldırabilir, açıklamalarını düzenleyebilir, fiyatlarını düzenleyebilirsiniz.
-
+# YORUM VE GÖRÜŞLERİNİZİ YAZMAK İÇİN 👉 https://ekelachin.github.io/qrmenuyorum/ 
 # KURULUM
 ##
 PhpMyAdmin üzerinden menu.sql dosyasını içe aktarın.
