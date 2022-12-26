@@ -20,3 +20,4 @@ Not : Scripti kullanmaya başladıktan sonra güvenliğiniz için yönetim panel
 Laçin Eke YouTube https://youtube.com/LacinEke
 #
 <img src="https://raw.githubusercontent.com/EkeLachin/qrmenuyorum/main/resim_2022-12-24_234655311.png"/>
+<img src="https://github.com/EkeLachin/qrmenuyorum/blob/main/resim_2022-12-26_205629494.png"/>
